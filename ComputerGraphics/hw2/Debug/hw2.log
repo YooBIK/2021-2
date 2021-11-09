@@ -1,0 +1,11 @@
+﻿  hw2View.cpp
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.h(31,16): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.cpp(244,53): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.cpp(245,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.cpp(305,21): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.cpp(308,21): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.cpp(311,21): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.cpp(314,21): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.cpp(338,16): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\hw2View.cpp(342,17): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+  hw2.vcxproj -> C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw2\Debug\hw2.exe

@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  B811115.cpp
+C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw1\B811115.cpp(30,42): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  ClassView.cpp
+  FileView.cpp
+  hw1.cpp
+  hw1Doc.cpp
+  hw1View.cpp
+  MainFrm.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  코드를 생성하고 있습니다...
+  hw1.vcxproj -> C:\Users\유 병익\Desktop\강의 자료\2021-2\컴퓨터 그래픽스\과제\hw1\Debug\hw1.exe
