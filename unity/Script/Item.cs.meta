@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 05267aaec8ab9a34da60a6e108064188
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CFX2_PickupHeartPrefab: {fileID: 100004, guid: 3af6f68141914ca43ba39b2403757bd0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
